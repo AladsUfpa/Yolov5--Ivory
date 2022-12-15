@@ -1,0 +1,13 @@
+
+train: /content/drive/MyDrive/Imagens trabalho final IC/train_data_filipe/images/train
+val: /content/drive/MyDrive/Imagens trabalho final IC/train_data_filipe/images/val
+test:  # test images (optional)
+
+# Classes
+names:
+  0: capacete
+  1: oculos
+  2: mascara
+ 
+# Download script/URL (optional)
+download: https://ultralytics.com/assets/coco128.zip
